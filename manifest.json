@@ -1,0 +1,23 @@
+{
+  "item": {
+    "name": "诱惑自大洛丽塔",
+    "description": "一款来自夜羊社移植的神秘Galgame",
+    "preview": ["1.png", "2.png", "3.png"],
+    "icon": "icon.png",
+    "source_url": "https://github.com/ec666/miband_galgame",
+    "author": [{
+      "name": "EC",
+      "author_url": "https://wpa.qq.com/msgrd?v=3&uin=3586727472&site=qq&menu=yes"
+    }]
+  },
+  "downloads": {
+    "n67": {
+      "version": "1.0.0",
+      "file_name": "com.ec.2girlsloli.rel.1.0.rpk"
+    },
+    "n67": {
+      "version": "1.0.0",
+      "file_name": "com.ec.2girlsloli.rel.1.0.rpk）"
+    }
+  }
+}
