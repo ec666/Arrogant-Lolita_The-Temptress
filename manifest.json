@@ -1,6 +1,6 @@
 {
   "item": {
-    "name": "诱惑自大洛丽塔",
+    "name": "诱惑自大洛丽塔（和谐版）",
     "description": "一款来自夜羊社移植的神秘Galgame",
     "preview": ["1.png", "2.png", "3.png"],
     "icon": "icon.png",
@@ -21,3 +21,4 @@
     }
   }
 }
+
